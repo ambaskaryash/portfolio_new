@@ -60,7 +60,7 @@ const { toggleMinimized, closeProgram, toggleFullscreen } = store;
         <FolderWindow v-if="program.type === 'folder'" />
         <WelcomeWindow v-if="program.type === 'welcome'" />
         <div class="text-editor" v-if="program.type === 'text'">
-            <h1>Hello!</h1>
+            <h1>Hello! It's Yash Ambaskar</h1>
             <p>This website exists for you to get to know me.</p>
             <br />
             <p>
