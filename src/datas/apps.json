@@ -21,7 +21,7 @@
         "id": 3,
         "name": "WithLoveStudios",
         "extention": "exe",
-        "icon": "wls1.jpg",
+        "icon": "wls1_new.png",
         "type": "project",
         "url": "https://withlovestudios.in",
         "isOnStartMenu": false,
