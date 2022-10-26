@@ -29,13 +29,13 @@ export const useStore = defineStore({
                 title: "Welcome!",
                 description:
                     "At the of setup wizard, you will be able to see my CV.",
-                imgSrc: "setup-banner.png",
+                imgSrc: "logo-banner-new.png",
             },
             {
                 id: 2,
                 title: "Employment History",
                 description: "In short, you can see my employment history.",
-                imgSrc: "employment-banner.png",
+                imgSrc: "company_name.png",
             },
             {
                 id: 3,

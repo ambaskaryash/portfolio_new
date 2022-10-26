@@ -19,11 +19,11 @@
 
     {
         "id": 3,
-        "name": "Website1",
+        "name": "WithLoveStudios",
         "extention": "exe",
-        "icon": "infinite-wordle.png",
+        "icon": "wls1.jpg",
         "type": "project",
-        "url": "https://wordle.hicaku.com/",
+        "url": "https://withlovestudios.in",
         "isOnStartMenu": false,
         "sortApp": 1
     },

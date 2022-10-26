@@ -1,6 +1,6 @@
 # Portfolio
 
-**Live Demo:  [Portfolio - Yash](https://yash-portfolio2022.vercel.app/)**
+**Live Demo:  [Portfolio - By Yash](https://yash-portfolio2022.vercel.app/)**
 
 Hi! In this project I try to develop a calculator app with **Vue, Typescript, Pinia, Vite**.
 
