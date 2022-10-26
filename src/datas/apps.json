@@ -7,6 +7,7 @@
         "type": "text",
         "isOnStartMenu": true
     },
+
     {
         "id": 2,
         "name": "SETUP",
@@ -15,16 +16,18 @@
         "type": "setup",
         "isOnStartMenu": true
     },
+
     {
         "id": 3,
-        "name": "Wordle",
+        "name": "Website1",
         "extention": "exe",
         "icon": "infinite-wordle.png",
         "type": "project",
         "url": "https://wordle.hicaku.com/",
-        "isOnStartMenu": true,
+        "isOnStartMenu": false,
         "sortApp": 1
     },
+
     {
         "id": 4,
         "name": "Hibu",
@@ -32,73 +35,66 @@
         "icon": "hibu.png",
         "type": "project",
         "url": "https://hibu.hicaku.com/",
-        "sortApp": 6
+        "isOnStartMenu": false,
+        "sortApp": 2
     },
+
     {
         "id": 5,
-        "name": "Earthquakes",
-        "extention": "exe",
-        "icon": "earthquakes.png",
-        "type": "project",
-        "url": "https://earthquakes.hicaku.com/",
-        "sortApp": 5
-    },
-    {
-        "id": 7,
         "name": "Calculator",
         "extention": "exe",
         "icon": "calculator.png",
         "type": "project",
         "url": "https://calculator.hicaku.com/",
         "isOnStartMenu": true,
-        "sortApp": 7
+        "sortApp": 3
     },
     {
-        "id": 8,
+        "id": 6,
         "name": "Tictactoe",
         "extention": "exe",
         "icon": "tictactoe.png",
         "type": "project",
         "url": "https://tictactoe.hicaku.com/",
-        "isOnStartMenu": true,
-        "sortApp": 8
+        "isOnStartMenu": false,
+        "sortApp": 4
     },
     {
-        "id": 9,
+        "id": 7,
         "name": "Photographs",
         "icon": "folder.png",
         "type": "folder",
         "children": [
             {
-                "id": 10,
+                "id": 8,
                 "name": "photo1",
                 "extention": "jpg",
                 "icon": "photo.png",
                 "type": "photo"
             },
             {
-                "id": 11,
+                "id": 9,
                 "name": "photo2",
                 "extention": "jpg",
                 "icon": "photo.png",
                 "type": "photo"
             },
             {
-                "id": 12,
+                "id": 10,
                 "name": "photo3",
                 "extention": "jpg",
                 "icon": "photo.png",
                 "type": "photo"
             },
             {
-                "id": 13,
+                "id": 11,
                 "name": "photo4",
                 "extention": "jpg",
                 "icon": "photo.png",
                 "type": "photo"
             },
             {
-                "id": 16,
+                "id": 12,
                 "name": "photo5",
                 "extention": "jpg",
                 "icon": "photo.png",
@@ -108,32 +104,22 @@
     },
 
     {
-        "id": 14,
+        "id": 13,
         "name": "GitHub",
         "extention": "app",
         "icon": "github.png",
         "type": "app",
-        "url": "https://github.com/Spencehiko",
+        "url": "https://github.com/ambaskaryash",
         "isOnStartMenu": true
     },
     {
-        "id": 15,
+        "id": 14,
         "name": "LinkedIn",
         "extention": "app",
         "icon": "linkedin.png",
         "type": "app",
-        "url": "https://www.linkedin.com/in/hikmet-can-kufteoglu/",
+        "url": "https://www.linkedin.com/in/yash-ambaskar119/",
         "isOnStartMenu": true
-    },
-    {
-        "id": 16,
-        "name": "Hikotify",
-        "extention": "exe",
-        "icon": "hikotify.png",
-        "type": "project",
-        "url": "https://hikotify.hicaku.com/",
-        "isOnStartMenu": true,
-        "sortApp": 2
     },
     {
         "id": 17,
@@ -142,17 +128,7 @@
         "icon": "solitaire.png",
         "type": "project",
         "url": "https://solitaire.hicaku.com/",
-        "isOnStartMenu": true,
-        "sortApp": 4
-    },
-    {
-        "id": 18,
-        "name": "CVGenerate",
-        "extention": "exe",
-        "icon": "cv.png",
-        "type": "project",
-        "url": "https://cv.hicaku.com/",
-        "isOnStartMenu": true,
-        "sortApp": 3
+        "isOnStartMenu": false,
+        "sortApp": 5
     }
 ]

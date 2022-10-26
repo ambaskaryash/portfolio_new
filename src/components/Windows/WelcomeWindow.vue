@@ -47,7 +47,7 @@ function timeOut() {
             </div>
         </div>
         <div class="welcome-text" v-if="isAllProgressCompleted">
-            <h2>>> Welcome to the HikOS 22!</h2>
+            <h2>>> Welcome to the Yash Portfolio 2022!</h2>
             <h4>>> You can simply download my resume,</h4>
             <h4>>> Or close this window and start to explore my works!</h4>
             <div class="download">

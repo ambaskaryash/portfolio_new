@@ -1,6 +1,6 @@
 # Portfolio
 
-**Live Demo:  [Portfolio - HiCaKu](https://hicaku.com/)**
+**Live Demo:  [Portfolio - HiCaKu](https://yash-portfolio2022.vercel.app/)**
 
 Hi! In this project I try to develop a calculator app with **Vue, Typescript, Pinia, Vite**.
 
@@ -14,6 +14,6 @@ After cloning is finished, you **must** install the npm in order to run.
 
 Then, you are ready to give it a shot! Just type
 
-    npm run serve
+    npm run-script dev
 
 and you will see the project in your browser!

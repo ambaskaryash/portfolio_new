@@ -64,7 +64,7 @@ const { toggleMinimized, closeProgram, toggleFullscreen } = store;
             <p>This website exists for you to get to know me.</p>
             <br />
             <p>
-                If you want to download my CV, you can click to SETUP.exe and
+                If you want to download my CV, you can click to SETUP.exe and   <!-- Info will be changed with my Projects Done-->
                 when the setup finishes, you will be able to download my CV.
             </p>
             <br />
@@ -73,7 +73,7 @@ const { toggleMinimized, closeProgram, toggleFullscreen } = store;
                 Also I have added 4 photographs that I took.
             </p>
             <br />
-            <p style="text-align: right">- Hikmet</p>
+            <p style="text-align: right">- Yash</p>
         </div>
     </div>
 </template>
