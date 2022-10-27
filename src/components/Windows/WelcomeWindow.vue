@@ -50,6 +50,7 @@ function timeOut() {
             <h2>>> Welcome to the Yash Portfolio 2022!</h2>
             <h4>>> You can simply download my resume,</h4>
             <h4>>> Or close this window and start to explore my works!</h4>
+            <h4>>> Open Setup.exe for my CV!</h4>
             <div class="download">
                 <button class="download-button" @click="downloadCV">
                     Download CV
